@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @tabby-wan
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently taking the Harvard CS50 online course
-- 💞️ I’m looking to collaborate on data science projects 
 - 📫 How to reach me via email: tabbrizia@gmail.com
 
 <!---
