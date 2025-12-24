@@ -1,4 +1,4 @@
-- 📫 How to reach me via email: tabbrizia@gmail.com
+
 
 <!---
 tabby-wan/tabby-wan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
